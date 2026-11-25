@@ -1,0 +1,5 @@
+{
+  "name": "claude-live-pane",
+  "owner": { "name": "jesaias1" },
+  "plugins": [{ "name": "hacker-view", "source": "./" }]
+}

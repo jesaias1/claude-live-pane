@@ -1,0 +1,8 @@
+{
+  "name": "hacker-view",
+  "version": "0.3.0",
+  "description": "A live session monitor pane for Claude Code: watch code being written, commands running, real diffs, background agents and token usage in real time",
+  "author": { "name": "jesaias1" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
